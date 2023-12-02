@@ -4,14 +4,23 @@
 Resources and extra documentation for the manuscript "Design and Comparative Analysis of THz Antenna through Machine Learning for 6G Connectivity" published in IEEE Latin America Transactions.
 
 **Instruction for running the simulation**
-1. Use HFSS to design an antenna and create dataset. 
-  a) Script file to create antenna.
-2. Machine learning algorithms codes:
+
+1. Use HFSS to design an antenna and generate the dataset. 
+
+  a) Script file to create an antenna.
+
+2. Machine Learning Algorithms Codes:
+
   a) Decision Tree
+  
   b) Random Forest
+  
   c) XG- Boost
+  
   d) KNN
+
 4. Requirements: Google Colab/ Python for the execution of codes
+
 5. Graphical Abstract for proper understanding
 
 
