@@ -7,17 +7,17 @@ Resources and extra documentation for the manuscript "Design and Comparative Ana
 
 1. Use HFSS to design an antenna and generate the dataset. 
 
-  a) Script file to create an antenna.
+      a) Script file to create an antenna.
 
 2. Machine Learning Algorithms Codes:
 
-  a) Decision Tree
+      a) Decision Tree
   
-  b) Random Forest
+      b) Random Forest
   
-  c) XG- Boost
+      c) XG- Boost
   
-  d) KNN
+      d) KNN
 
 4. Requirements: Google Colab/ Python for the execution of codes
 
